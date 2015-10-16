@@ -10,5 +10,8 @@ package com.irfan.practice_core;
  * @author Irfan
  */
 public class TestRepoCommit {
+    public static void main(String[] args){
+        
+    }
     
 }
